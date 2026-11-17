@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sponteous provides a pre‑arrival upselling platform for hotels, enabling guests to bid on premium rooms and purchase additional products before check‑in. The solution automates invitations via email, SMS, or WhatsApp, integrates with over 20 PMS systems, and offers white‑label customization, real‑time reporting, and multilingual support. It aims to increase hotel revenue through automated, personalized upsell offers while enhancing the guest experience.
+Sponteous provides a pre‑arrival upselling platform for hotels, enabling guests to bid on premium rooms and purchase additional products before check‑in. The solution automates personalized invitations via email, SMS, or WhatsApp, integrates with major PMS and booking systems, and offers a demo and pricing information on its site.
 
-**Areas:** Company · Hospitality · Upselling · SaaS · HotelTech
+**Areas:** Company · Hospitality · Upselling · SaaS · GuestExperience
 
 ## Sponteous on APIs.io
 
@@ -82,18 +82,26 @@ Authentication, trust centre, and vulnerability disclosure.
 
 - [Sponteous Domain Security](https://apis.io/security/sponteous/sponteous-domain-security/)
 
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Sponteous Plans Pricing](https://apis.io/plans/sponteous/sponteous-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://sponteous.com/)
+- [Website](https://www.sponteous.com/)
+- [Getting started](https://www.sponteous.com/demo)
 - [Pricing](https://www.sponteous.com/pricing)
+- [Support](https://www.sponteous.com/contact)
 - [Blog](https://www.sponteous.com/blog)
 - [Privacy policy](https://www.sponteous.com/privacy-policy)
 
 ## API Evangelist rating
 
-**Kin Score 9.2** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 14.7** — emerging · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
@@ -101,8 +109,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 2.4 |
-| Access clarity | 27.7 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 34.2 |
 
 **Agent readiness 3.1** — human-only
 
@@ -131,7 +139,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 3.9** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sponteous/](https://apis.io/providers/sponteous/).
 
